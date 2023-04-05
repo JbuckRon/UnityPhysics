@@ -342,7 +342,7 @@ MonoBehaviour:
   hitForce: 3
   fallRateMultiplier: 0
   lowJumpRateMultiplier: 0
-  doubleJumpHeight: 0
+  doubleJumpHeight: 1
   groundTransform: {fileID: 1859894229}
   groundLayerMask:
     serializedVersion: 2
